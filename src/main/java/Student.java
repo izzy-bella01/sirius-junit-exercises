@@ -33,5 +33,13 @@ public class Student {
         }
         return total / this.grades.size();
     }
+//
+//    public static void main(String[] args) {
+//        Student myStu = new Student(4, "Bella");
+//        myStu.addGrade(89);
+//        myStu.addGrade(78);
+//
+//        System.out.println(myStu.getGradeAverage());
+//    }
 
 }
